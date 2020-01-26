@@ -8,12 +8,18 @@
 
 ## Vega
 
-- [Website](https://vega.github.io/vega/).
+[`Website`](https://vega.github.io/vega/)
+
+-
 
 ## Vega-Lite
 
-- [Website](https://vega.github.io/vega-lite/).
+[`Website`](https://vega.github.io/vega-lite/).
+
+-
 
 ## Altair
 
-- [Website](https://altair-viz.github.io/).
+[`Website`](https://altair-viz.github.io/).
+
+-
