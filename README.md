@@ -21,6 +21,7 @@
 - Libraries/Tools using Vega-Lite:
 
   - [Visdown](https://visdown.com/). Vega can also be used according to the information in the [repo](https://github.com/amitkaps/visdown).
+  - [Vegas](https://www.vegas-viz.org/) (Scala).
 
 - Papers using Vega-Lite:
   - [FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning](https://arxiv.org/abs/1904.05419) | Ángel Alexander Cabrera, Will Epperson, Fred Hohman, Minsuk Kahng, Jamie Morgenstern, Duen Horng Chau | 2019 | [Repo](https://github.com/poloclub/FairVis).
