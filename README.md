@@ -30,9 +30,11 @@
 
 - Papers:
   - [FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning](https://arxiv.org/abs/1904.05419) | Ángel Alexander Cabrera, Will Epperson, Fred Hohman, Minsuk Kahng, Jamie Morgenstern, Duen Horng Chau | 2019 | [Repo](https://github.com/poloclub/FairVis).
+  - [Learning Vis Tools: Teaching Data Visualization Tutorials](https://arxiv.org/abs/1907.08796) | Leo Yu-Ho Lo, Yao Ming, Huamin Qu | 2019.
 
 ## Altair
 
 [`Website`](https://altair-viz.github.io/)
 
--
+- Papers:
+  - [Learning Vis Tools: Teaching Data Visualization Tutorials](https://arxiv.org/abs/1907.08796) | Leo Yu-Ho Lo, Yao Ming, Huamin Qu | 2019.
