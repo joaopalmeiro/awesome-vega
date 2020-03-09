@@ -38,3 +38,4 @@
 
 - Papers:
   - [Learning Vis Tools: Teaching Data Visualization Tutorials](https://arxiv.org/abs/1907.08796) | Leo Yu-Ho Lo, Yao Ming, Huamin Qu | 2019.
+  - [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence](https://arxiv.org/abs/2002.04803) | Sebastian Raschka, Joshua Patterson, Corey Nolet | 2020.
