@@ -40,6 +40,8 @@
 - Libraries/Tools:
 
   - [whatlies](https://github.com/RasaHQ/whatlies).
+  - [altair-latimes](https://github.com/datadesk/altair-latimes) (Altair themes).
+  - [hueniversitypy](https://github.com/UBC-MDS/hueniversitypy) (Altair themes). 
 
 - Papers:
   - [Learning Vis Tools: Teaching Data Visualization Tutorials](https://arxiv.org/abs/1907.08796) | Leo Yu-Ho Lo, Yao Ming, Huamin Qu | 2019.
