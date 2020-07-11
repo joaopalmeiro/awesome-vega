@@ -42,6 +42,7 @@
   - [altair-latimes](https://github.com/datadesk/altair-latimes) (Altair themes).
   - [altair_recipes](https://github.com/piccolbo/altair_recipes).
   - [hueniversitypy](https://github.com/UBC-MDS/hueniversitypy) (Altair themes).
+  - [nx_altair](https://github.com/Zsailer/nx_altair).
   - [upset-altair-notebook](https://github.com/hms-dbmi/upset-altair-notebook).
   - [whatlies](https://github.com/RasaHQ/whatlies).
 
