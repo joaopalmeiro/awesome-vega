@@ -22,14 +22,10 @@ Vega is a declarative language for describing and creating interactive data visu
 
 ## Vega
 
-[`Website`](https://vega.github.io/vega/)
-
 - Blogposts:
   - [React and Vega: An Alternative Visualization Example](https://medium.com/@pbesh/react-and-vega-an-alternative-visualization-example-cd76e07dc1cd) | Peter Beshai | 2016 | [Repo](https://github.com/pbeshai/linked-highlighting-react-vega-redux).
 
 ## Vega-Lite
-
-[`Website`](https://vega.github.io/vega-lite/)
 
 - Blogposts:
 
@@ -46,8 +42,6 @@ Vega is a declarative language for describing and creating interactive data visu
 
 ## Altair
 
-[`Website`](https://altair-viz.github.io/)
-
 - Libraries/Tools:
 
   - [altair-latimes](https://github.com/datadesk/altair-latimes) (Altair themes).
@@ -61,6 +55,6 @@ Vega is a declarative language for describing and creating interactive data visu
   - [Learning Vis Tools: Teaching Data Visualization Tutorials](https://arxiv.org/abs/1907.08796) | Leo Yu-Ho Lo, Yao Ming, Huamin Qu | 2019.
   - [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence](https://arxiv.org/abs/2002.04803) | Sebastian Raschka, Joshua Patterson, Corey Nolet | 2020.
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
