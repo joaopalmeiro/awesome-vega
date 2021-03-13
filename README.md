@@ -1,6 +1,8 @@
 # Awesome Vega
 
-:chart_with_upwards_trend: A list of resources leveraging and to leverage the Vega ecosystem.
+[<img src="vega-project-logo.svg" align="right" width="100">](https://vega.github.io/)
+
+> Resources leveraging and to leverage the [Vega](https://vega.github.io/) ecosystem.
 
 ## Contents
 
