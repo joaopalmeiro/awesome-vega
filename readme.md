@@ -8,9 +8,17 @@ Vega is a declarative language for describing and creating interactive data visu
 
 ## Contents
 
+- [Official](#official)
 - [Vega](#vega)
 - [Vega-Lite](#vega-lite)
 - [Altair](#altair)
+
+## Official
+
+- [Altair documentation](https://altair-viz.github.io/)
+- [Altair repository](https://github.com/altair-viz/altair)
+- [Vega repository](https://github.com/vega/vega)
+- [Vega website](https://vega.github.io/)
 
 ## Vega
 
@@ -34,7 +42,6 @@ Vega is a declarative language for describing and creating interactive data visu
   - [tfjs-vis](https://js.tensorflow.org/api_vis/latest/) (JavaScript).
 
 - Papers:
-  - [FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning](https://arxiv.org/abs/1904.05419) | Ángel Alexander Cabrera, Will Epperson, Fred Hohman, Minsuk Kahng, Jamie Morgenstern, Duen Horng Chau | 2019 | [Repo](https://github.com/poloclub/FairVis).
   - [Learning Vis Tools: Teaching Data Visualization Tutorials](https://arxiv.org/abs/1907.08796) | Leo Yu-Ho Lo, Yao Ming, Huamin Qu | 2019.
 
 ## Altair
