@@ -9,3 +9,5 @@
   - [How to disable prettier in VSCode for a specific project?](https://dev.to/gulshansaini/how-to-disable-prettier-in-vscode-for-a-specific-project-2a48) (`Prettier: Require Config` option).
   - [Tab width should not affect text alignment after the bullet points in Markdown lists](https://github.com/prettier/prettier/issues/5019) (open) issue.
   - [Markdown output does not respect --use-tabs/useTabs setting](https://github.com/prettier/prettier/issues/8782) (open) issue.
+- [Chalice Icon Theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme).
+- [City Lights Icon package](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc).
