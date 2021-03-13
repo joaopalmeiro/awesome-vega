@@ -26,9 +26,9 @@ Vega is a declarative language for describing and creating interactive data visu
 
 ## Vega and Vega-Lite
 
-### Libraries
+### Packages
 
-- [tfjs-vis](https://github.com/tensorflow/tfjs/tree/master/tfjs-vis) - Visualization API for [TensorFlow.js](https://github.com/tensorflow/tfjs).
+- [tfjs-vis](https://github.com/tensorflow/tfjs/tree/master/tfjs-vis) - Integrated visualization API for [TensorFlow.js](https://github.com/tensorflow/tfjs).
 
 ### Blog posts
 
@@ -43,7 +43,15 @@ Vega is a declarative language for describing and creating interactive data visu
 
 ### Packages
 
+- [altair-latimes](https://github.com/datadesk/altair-latimes) - Los Angeles Times theme.
+- [altair_recipes](https://github.com/piccolbo/altair_recipes) - Chart templates (or types).
+- [hueniversitypy](https://github.com/UBC-MDS/hueniversitypy) - Canadian university themes.
+- [nx_altair](https://github.com/Zsailer/nx_altair) - [NetworkX](https://networkx.org/) graphs with Altair.
+- [whatlies](https://github.com/RasaHQ/whatlies) - Visualization of word embeddings with Altair ([paper](https://arxiv.org/abs/2009.02113)).
+
 ### Notebooks
+
+- [upset-altair-notebook](https://github.com/hms-dbmi/upset-altair-notebook) - Implementation and example of the [UpSet](https://jku-vds-lab.at/tools/upset/) chart.
 
 ### Papers
 
@@ -53,6 +61,7 @@ Vega is a declarative language for describing and creating interactive data visu
 
 - [Visdown](https://github.com/amitkaps/visdown) - Markdown (Vega/Vega-Lite).
 - [Vegas](https://github.com/vegas-viz/Vegas) - Scala (Vega-Lite).
+- [XVega](https://github.com/QuantStack/xvega) - C++ (Vega-Lite).
 
 ## Contributing
 
