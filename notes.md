@@ -13,4 +13,4 @@
 - [City Lights Icon package](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc).
 - The README file header was inspired by that of [Awesome Electron](https://github.com/sindresorhus/awesome-electron).
 - [List guidelines](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md).
-- `npm install --global awesome-lint` and `awesome-lint https://github.com/joaopalmeiro/awesome-vega`.
+- `npm install --global awesome-lint` and `awesome-lint https://github.com/joaopalmeiro/awesome-vega`/`awesome-lint`.

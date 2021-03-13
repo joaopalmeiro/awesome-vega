@@ -1,6 +1,6 @@
 <!--lint disable double-link-->
 
-# Awesome Vega [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Vega
 
 [<img src="vega-project-logo.svg" align="right" width="100">](https://vega.github.io/)
 
