@@ -1,5 +1,7 @@
 # Awesome Vega [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!--lint disable double-link-->
+
 [<img src="vega-project-logo.svg" align="right" width="100">](https://vega.github.io/)
 
 > :chart_with_upwards_trend: Resources leveraging and to leverage the [Vega](https://vega.github.io/) ecosystem.
@@ -19,6 +21,8 @@
 - [Altair repository](https://github.com/altair-viz/altair)
 - [Vega repository](https://github.com/vega/vega)
 - [Vega website](https://vega.github.io/)
+
+<!--lint enable double-link-->
 
 ## Vega and Vega-Lite
 

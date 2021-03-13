@@ -1,0 +1,18 @@
+# Source:
+# - https://github.com/sindresorhus/awesome-lint#continuous-integration
+# - https://github.com/DmytroLitvinov/awesome-flake8-extensions
+
+name: CI
+on:
+	pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+jobs:
+  Awesome_Lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - run: npx awesome-lint
