@@ -1,4 +1,4 @@
-<!--lint disable double-link https://vega.github.io/-->
+<!--lint disable double-link-->
 
 # Awesome Vega [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -27,6 +27,7 @@ Vega is a declarative language for describing and creating interactive data visu
 ### Blog posts
 
 - [React and Vega: An Alternative Visualization Example](https://medium.com/@pbesh/react-and-vega-an-alternative-visualization-example-cd76e07dc1cd) - Example of interactive and linked charts with React, Redux, and Vega ([repo](https://github.com/pbeshai/linked-highlighting-react-vega-redux)).
+- [Creating Interactive Visualizations Should Be Easier](https://medium.com/visumd/creating-interactive-visualizations-should-be-easier-137212ef1fb1)
 - [Creating Interactive Visualizations Should Be Easier](https://medium.com/visumd/creating-interactive-visualizations-should-be-easier-137212ef1fb1)
 
 ## Altair
