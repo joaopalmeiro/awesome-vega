@@ -64,7 +64,7 @@
 - [Visdown](https://github.com/amitkaps/visdown) - Markdown (Vega/Vega-Lite).
 - [Vegas](https://github.com/vegas-viz/Vegas) - Scala (Vega-Lite).
 - [XVega](https://github.com/QuantStack/xvega) - C++ (Vega-Lite).
-- [Smile](https://github.com/haifengl/smile) — Scala (Vega-Lite).
+- [Smile](https://github.com/haifengl/smile) - Scala (Vega-Lite).
 
 ## Contributing
 
