@@ -26,10 +26,18 @@ Vega is a declarative language for describing and creating interactive data visu
 
 ## Vega and Vega-Lite
 
+### Libraries
+
+- [tfjs-vis](https://github.com/tensorflow/tfjs/tree/master/tfjs-vis) - Visualization API for [TensorFlow.js](https://github.com/tensorflow/tfjs).
+
 ### Blog posts
 
 - [React and Vega: An Alternative Visualization Example](https://medium.com/@pbesh/react-and-vega-an-alternative-visualization-example-cd76e07dc1cd) - Example of interactive and linked charts with React, Redux, and Vega ([repo](https://github.com/pbeshai/linked-highlighting-react-vega-redux)).
 - [Creating Interactive Visualizations Should Be Easier](https://medium.com/visumd/creating-interactive-visualizations-should-be-easier-137212ef1fb1)
+
+### Papers
+
+- [Learning Vis Tools: Teaching Data Visualization Tutorials](https://arxiv.org/abs/1907.08796) - Altair and Vega-Lite are two of the tools used.
 
 ## Altair
 
@@ -37,9 +45,14 @@ Vega is a declarative language for describing and creating interactive data visu
 
 ### Notebooks
 
+### Papers
+
+- [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence](https://arxiv.org/abs/2002.04803) - Altair is one of the tools mentioned for (interactive) Data Visualization.
+
 ## Wrappers
 
-- [Visdown](https://github.com/amitkaps/visdown) - Markdown (Vega or Vega-Lite).
+- [Visdown](https://github.com/amitkaps/visdown) - Markdown (Vega/Vega-Lite).
+- [Vegas](https://github.com/vegas-viz/Vegas) - Scala (Vega-Lite).
 
 ## Contributing
 
