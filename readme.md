@@ -34,6 +34,7 @@
 
 - [React and Vega: An Alternative Visualization Example](https://medium.com/@pbesh/react-and-vega-an-alternative-visualization-example-cd76e07dc1cd) - Example of interactive and linked charts with React, Redux, and Vega ([repo](https://github.com/pbeshai/linked-highlighting-react-vega-redux)).
 - [Creating Interactive Visualizations Should Be Easier](https://medium.com/visumd/creating-interactive-visualizations-should-be-easier-137212ef1fb1)
+- [The W&B Machine Learning Visualization IDE](https://wandb.ai/wandb/posts/reports/The-W-B-Machine-Learning-Visualization-IDE--VmlldzoyNjk3Nzg)
 
 ### Papers
 
@@ -48,6 +49,7 @@
 - [hueniversitypy](https://github.com/UBC-MDS/hueniversitypy) - Canadian university themes.
 - [nx_altair](https://github.com/Zsailer/nx_altair) - [NetworkX](https://networkx.org/) graphs with Altair.
 - [whatlies](https://github.com/RasaHQ/whatlies) - Visualization of word embeddings with Altair ([paper](https://arxiv.org/abs/2009.02113)).
+- [Lux](https://github.com/lux-org/lux) - Auto EDA.
 
 ### Notebooks
 
@@ -62,6 +64,7 @@
 - [Visdown](https://github.com/amitkaps/visdown) - Markdown (Vega/Vega-Lite).
 - [Vegas](https://github.com/vegas-viz/Vegas) - Scala (Vega-Lite).
 - [XVega](https://github.com/QuantStack/xvega) - C++ (Vega-Lite).
+- [Smile](https://github.com/haifengl/smile) — Scala (Vega-Lite).
 
 ## Contributing
 
