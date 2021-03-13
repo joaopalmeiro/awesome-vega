@@ -2,7 +2,7 @@
 
 <!--lint disable double-link-->
 
-[<img src="vega-project-logo.svg" align="right" width="100">](https://vega.github.io/)
+[<img src="vega-project-logo.svg" alt="Vega project logo" align="right" width="100">](https://vega.github.io/)
 
 > :chart_with_upwards_trend: Resources leveraging and to leverage the [Vega](https://vega.github.io/) ecosystem.
 
