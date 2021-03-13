@@ -12,3 +12,4 @@
 - [Chalice Icon Theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme).
 - [City Lights Icon package](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc).
 - The README file header was inspired by that of [Awesome Electron](https://github.com/sindresorhus/awesome-electron).
+- [List guidelines](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md).

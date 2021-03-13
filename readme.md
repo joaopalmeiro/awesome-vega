@@ -1,10 +1,10 @@
-# Awesome Vega
+# Awesome Vega [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="vega-project-logo.svg" align="right" width="100">](https://vega.github.io/)
 
 > Resources leveraging and to leverage the [Vega](https://vega.github.io/) ecosystem.
 
-<br>
+Vega is a declarative language for describing and creating interactive data visualizations. The description (known by _specification_) of both the visual appearance and the interactive behaviour of a visualization is done in a JSON format. This way, Vega provides a broad set of building blocks that allows you to plan and build flexible visualizations.
 
 ## Contents
 
@@ -53,3 +53,7 @@
 - Papers:
   - [Learning Vis Tools: Teaching Data Visualization Tutorials](https://arxiv.org/abs/1907.08796) | Leo Yu-Ho Lo, Yao Ming, Huamin Qu | 2019.
   - [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence](https://arxiv.org/abs/2002.04803) | Sebastian Raschka, Joshua Patterson, Corey Nolet | 2020.
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
