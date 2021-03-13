@@ -8,6 +8,8 @@
 
 Vega is a declarative language for describing and creating interactive data visualizations. The description (known by _specification_) of both the visual appearance and the interactive behaviour of a visualization is done in a JSON format. This way, Vega provides a broad set of building blocks that allows you to plan and build flexible visualizations.
 
+<!--lint enable double-link-->
+
 ## Contents
 
 - [Official](#official)
