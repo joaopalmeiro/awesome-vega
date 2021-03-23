@@ -50,6 +50,8 @@
 - [nx_altair](https://github.com/Zsailer/nx_altair) - [NetworkX](https://networkx.org/) graphs with Altair.
 - [whatlies](https://github.com/RasaHQ/whatlies) - Visualization of word embeddings with Altair ([paper](https://arxiv.org/abs/2009.02113)).
 - [Lux](https://github.com/lux-org/lux) - Auto EDA.
+- [carbonplan-styles](https://github.com/carbonplan/styles) - Two themes (one light and one dark) for Altair (and Matplotlib).
+- [husky_theme](https://github.com/deppen8/husky-altair-theme) - Theme based on the University of Washington [brand](https://www.washington.edu/brand/).
 
 ### Notebooks
 
