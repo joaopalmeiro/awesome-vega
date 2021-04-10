@@ -52,6 +52,7 @@
 - [Lux](https://github.com/lux-org/lux) - Auto EDA.
 - [carbonplan-styles](https://github.com/carbonplan/styles) - Two themes (one light and one dark) for Altair (and Matplotlib).
 - [husky_theme](https://github.com/deppen8/husky-altair-theme) - Theme based on the University of Washington [brand](https://www.washington.edu/brand/).
+- [gif](https://github.com/maxhumber/gif) - GIFs from Altair/Matplotlib/Plotly charts.
 
 ### Notebooks
 
