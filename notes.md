@@ -14,3 +14,6 @@
 - The README file header was inspired by that of [Awesome Electron](https://github.com/sindresorhus/awesome-electron).
 - [List guidelines](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md).
 - `npm install --global awesome-lint` and `awesome-lint https://github.com/joaopalmeiro/awesome-vega`/`awesome-lint` (locally).
+- [alex](https://github.com/get-alex/alex):
+  - [List of rules](https://github.com/retextjs/retext-equality/blob/main/rules.md).
+  - Carolyn Stransky's [Setting up the alex.js language linter in your project](https://dev.to/meeshkan/setting-up-the-alex-js-language-linter-in-your-project-3bpl) blog post.

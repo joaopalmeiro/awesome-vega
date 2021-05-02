@@ -1,0 +1,10 @@
+{
+	"scripts": {
+		"lint-awesome": "awesome-lint",
+		"lint-language": "alex"
+	},
+	"devDependencies": {
+		"alex": "^9.1.0",
+		"awesome-lint": "^0.17.1"
+	}
+}

@@ -29,6 +29,7 @@
 ### Packages
 
 - [tfjs-vis](https://github.com/tensorflow/tfjs/tree/master/tfjs-vis) - Integrated visualization API for [TensorFlow.js](https://github.com/tensorflow/tfjs).
+- [justcharts](https://github.com/koaning/justcharts) - Vega-Lite charts in an HTML file.
 
 ### Blog posts
 
