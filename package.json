@@ -1,7 +1,8 @@
 {
 	"scripts": {
 		"lint-awesome": "awesome-lint",
-		"lint-language": "alex"
+		"lint-language": "alex",
+		"lint": "yarn lint-awesome && yarn lint-language"
 	},
 	"devDependencies": {
 		"alex": "^9.1.0",

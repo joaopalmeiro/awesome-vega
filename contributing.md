@@ -14,13 +14,13 @@ Please ensure that your pull request (PR) adheres to the following guidelines:
 - Use the following format: `[title](link) - Description.`
 - Additions should be added to the bottom of the relevant category.
 - Link to the GitHub/GitLab/Bitbucket repo (preferably), not [npmjs.com](https://www.npmjs.com/)/[pypi.org](https://pypi.org/) or its website.
-- Keep descriptions short and simple, but descriptive.
+- Keep descriptions short and to the point, but descriptive.
 - Descriptions should not be marketing taglines.
 - Descriptions should not be [title-case](https://en.wikipedia.org/wiki/Title_case).
 - Start the description with a capital and end with a full stop/period.
 - Don't start the description with `A` or `An`.
 - Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
+- Make sure your text editor is set to remove trailing space.
 - The PR should have a useful title and include a link to the package and why it should be included.
 - New categories or improvements to the existing categorization are welcome, but should be done in a separate PR.
 

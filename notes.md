@@ -17,3 +17,4 @@
 - [alex](https://github.com/get-alex/alex):
   - [List of rules](https://github.com/retextjs/retext-equality/blob/main/rules.md).
   - Carolyn Stransky's [Setting up the alex.js language linter in your project](https://dev.to/meeshkan/setting-up-the-alex-js-language-linter-in-your-project-3bpl) blog post.
+  - Development: `yarn lint-language` or `yarn lint`.
