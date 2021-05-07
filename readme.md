@@ -59,13 +59,13 @@
 
 - [upset-altair-notebook](https://github.com/hms-dbmi/upset-altair-notebook) - Implementation and example of the [UpSet](https://jku-vds-lab.at/tools/upset/) chart.
 
-### Papers
-
-- [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence](https://arxiv.org/abs/2002.04803) - Altair is one of the tools mentioned for (interactive) Data Visualization.
-
 ### Blog posts
 
 - [Consistently Beautiful Visualizations with Altair Themes](https://towardsdatascience.com/consistently-beautiful-visualizations-with-altair-themes-c7f9f889602)
+
+### Papers
+
+- [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence](https://arxiv.org/abs/2002.04803) - Altair is one of the tools mentioned for (interactive) Data Visualization.
 
 ## Wrappers
 
