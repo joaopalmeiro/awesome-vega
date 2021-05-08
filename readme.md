@@ -69,12 +69,14 @@
 
 ## Wrappers
 
+<!--alex disable bi-->
+
 - [Visdown](https://github.com/amitkaps/visdown) - Markdown (Vega/Vega-Lite).
 - [Vegas](https://github.com/vegas-viz/Vegas) - Scala (Vega-Lite).
 - [XVega](https://github.com/QuantStack/xvega) - C++ (Vega-Lite).
 - [Smile](https://github.com/haifengl/smile) - Scala (Vega-Lite).
-<!--alex disable bi-->
 - [Deneb](https://github.com/deneb-viz/deneb) - Power BI (Vega/Vega-Lite).
+
 <!--alex enable bi-->
 
 ## Contributing
