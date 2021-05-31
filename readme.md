@@ -78,6 +78,10 @@
 - [XVega](https://github.com/QuantStack/xvega) - C++ (Vega-Lite).
 - [Smile](https://github.com/haifengl/smile) - Scala (Vega-Lite).
 - [Deneb](https://github.com/deneb-viz/deneb) - Power BI (Vega/Vega-Lite).
+- [altair](https://github.com/vegawidget/altair) - R (Altair).
+- [Vega.jl](https://github.com/queryverse/Vega.jl) - Julia (Vega).
+- [VegaLite.jl](https://github.com/queryverse/VegaLite.jl) - Julia (Vega-Lite).
+- [VegaDatasets.jl](https://github.com/queryverse/VegaDatasets.jl) - Julia (Vega Datasets).
 
 <!--alex enable bi-->
 
