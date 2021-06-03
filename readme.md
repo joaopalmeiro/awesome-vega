@@ -82,6 +82,9 @@
 - [Vega.jl](https://github.com/queryverse/Vega.jl) - Julia (Vega).
 - [VegaLite.jl](https://github.com/queryverse/VegaLite.jl) - Julia (Vega-Lite).
 - [VegaDatasets.jl](https://github.com/queryverse/VegaDatasets.jl) - Julia (Vega Datasets).
+- [hvega](https://github.com/DougBurke/hvega) - Haskell (Vega-Lite).
+- [elm-vega](https://github.com/gicentre/elm-vega) - Elm (Vega).
+- [elm-vegaLite](https://github.com/gicentre/elm-vegaLite) - Elm (Vega-Lite).
 
 <!--alex enable bi-->
 
