@@ -86,6 +86,9 @@
 - [hvega](https://github.com/DougBurke/hvega) - Haskell (Vega-Lite).
 - [elm-vega](https://github.com/gicentre/elm-vega) - Elm (Vega).
 - [elm-vegaLite](https://github.com/gicentre/elm-vegaLite) - Elm (Vega-Lite).
+- [vega_lite_3](https://github.com/procyon-rs/vega_lite_3.rs) - Rust (Vega-Lite).
+- [vega_lite_4](https://github.com/procyon-rs/vega_lite_4.rs) - Rust (Vega-Lite).
+- [vega](https://github.com/ankane/vega) - Ruby (Vega/Vega-Lite).
 
 <!--alex enable bi-->
 
