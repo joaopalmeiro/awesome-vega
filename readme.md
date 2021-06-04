@@ -56,6 +56,7 @@
 - [gif](https://github.com/maxhumber/gif) - GIFs from Altair/Matplotlib/Plotly charts.
 - [Starborn](https://github.com/PythonCharmers/starborn) - Chart templates (or types).
 - [altair-catplot](https://github.com/justinbois/altair-catplot) - Chart templates (or types).
+- [Altair Ally](https://github.com/joelostblom/altair_ally) - EDA.
 
 ### Notebooks
 
